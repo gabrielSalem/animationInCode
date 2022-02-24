@@ -1,6 +1,7 @@
 # Animaçẽos em Código 
 
-## Só a amostra de algumas habilidades/conhecimentos adquiridos com o tempo ^-^
+### Só a amostra de algumas habilidades/conhecimentos adquiridos com o tempo ^-^
+
 <table>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84868622/155449678-81b41419-e9f0-4326-9d96-f038ebc55992.gif"  width="200px"></td>
