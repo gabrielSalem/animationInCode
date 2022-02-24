@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/gabrielSalem/animationInCode/#1">Primeiro 👆</a>
+      <a href="https://gabrielsalem.github.io/animationInCode/#1">Primeiro 👆</a>
     </td>
 <!--     <td>Seguindo 👆</td> -->
   </tr>
